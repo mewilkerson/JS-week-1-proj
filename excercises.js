@@ -71,7 +71,7 @@ function sum(numbers){
 
 function multiply(numbers){
     var numsMultiplied = numbers.reduce(function(memo, item){
-    return memo + item;      )
+    return memo + item;
     }
 
 

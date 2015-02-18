@@ -22,7 +22,7 @@ var material = ["plastic", "metal", "glass", "cloth"];
       var containsWood = false;
 
 material.forEach(function(currentMaterial){ 
-  if(currentMaterial === "wood"; {}
+  if(currentMaterial === "wood") {
     containsWood = true;
       }
     });
